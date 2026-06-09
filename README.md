@@ -5,9 +5,14 @@ It lets you download sales and forecasts data for a given sales channel and othe
 
 There is a neat conditional formatting feature on this page that highlights any forecast you changed so it’s easy to see if you did edit something, and what will be uploaded if you pressed the upload button.
 
+Notes:
+- If you download the file to test, make sure to enable macros and content, else the buttons won't work.
+- All data in this file is dummy data and is hardcoded into the Raw Data sheet, so test as much as you wish.
+- Know that clicking the upload button will create an example instert string as if it were going to insert the new forecasts into a database but it won't actually update any data.
 
 Screenshot of main page:
-<img width="997" height="391" alt="image" src="https://github.com/user-attachments/assets/cac44ab2-b3eb-4b57-a9e3-38d1eec20db4" />
+<img width="1819" height="695" alt="image" src="https://github.com/user-attachments/assets/60ad1b75-2cba-4d90-8e13-34375c482021" />
+
 
 
 
